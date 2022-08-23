@@ -1,4 +1,4 @@
 |folder|for|
 |:-----|:--:|
-|[css](css)||
-|[Img](Img)||
+|[css](https://github.com/raminxz/raminxz.github.io/tree/main/css)||
+|[Img](https://github.com/raminxz/raminxz.github.io/tree/main/img)||
