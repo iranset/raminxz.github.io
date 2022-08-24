@@ -15770,3 +15770,8 @@ select:disabled {
     z-index: 997;
     will-change: opacity;
 }
+
+                    
+h3.data-translate-min {
+    margin: 0 25px auto;
+}
