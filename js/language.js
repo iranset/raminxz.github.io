@@ -24,12 +24,12 @@ var dictionary = {
         'en': 'Material Status',
     },
     'military': {
-        'fa': 'وضعیت سربازی',
-        'en': 'Military Service Situation',
+        'fa': 'مدرک تحصلی',
+        'en': 'degree of education',
     },
     'military-des': {
-        'fa': 'پایان خدمت',
-        'en': 'The End Of Military Service',
+        'fa': 'دیپلم',
+        'en': 'diploma',
     },
     'relation-value': {
         'fa': 'مجرد',
