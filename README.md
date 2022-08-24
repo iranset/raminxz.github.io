@@ -8,7 +8,7 @@
 |    |    |    |    |    |    |    |    |    |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 
-|*Index*|[open](https://github.com/raminxz/raminxz.github.io/trre/main/index.html)|[edit](https://github.com/raminxz/raminxz.github.io/edit/main/index.html)|
+|*Index*|[open](https://github.com/raminxz/raminxz.github.io/blob/main/index.html)|[edit](https://github.com/raminxz/raminxz.github.io/edit/main/index.html)|
 |:--:|:--:|:--:|
 
 |    |    |    |    |    |    |    |    |    |
