@@ -180,7 +180,7 @@ var dictionary = {
         'en': 'File service',
     },
     'robo': {
-        'fa': ادیتور پیشرفته',
+        'fa': 'ادیتور پیشرفته',
         'en': 'Advanced editor',
     },
     'blog': {
