@@ -52,12 +52,12 @@ var dictionary = {
         'en': 'E-mail',
     },
     'founder': {
-        'fa': 'موسس',
+        'fa': 'شغل',
         'en': 'Founder Of',
     },
     'founder-value': {
-        'fa': 'نوتریکا',
-        'en': 'Notryca',
+        'fa': '...',
+        'en': '....',
     },
     'edu': {
         'fa': 'تحصیلات',
@@ -148,8 +148,8 @@ var dictionary = {
         'en': 'graphy',
     },
     'biography-des': {
-        'fa': 'اطلاعات شخصی و رزومه کاری',
-        'en': 'Personal Information And Resume',
+        'fa': 'اطلاعات شخصی',
+        'en': 'Personal Information',
     },
     'portfolio': {
         'fa': 'نمونه کار',
@@ -164,24 +164,24 @@ var dictionary = {
         'en': 'folio',
     },
     'portfolio-des': {
-        'fa': 'قبل از سفارش طراحی وبسایت نمونه کارهای من رو مشاهده کنین',
-        'en': 'See My Portfolio Before Ordering A Website Design',
+        'fa': 'نمونه کارهای من',
+        'en': 'Examples of my work',
     },
     'see': {
         'fa': 'مشاهده وبسایت',
         'en': 'See Website',
     },
     'atras': {
-        'fa': 'گروه نرم افزاری اترس',
-        'en': 'Atrassoft Group',
+        'fa': 'نرم افزار',
+        'en': 'software',
     },
     'farham': {
-        'fa': 'آی ای او سرویس توکن',
-        'en': 'Ieo Service Token',
+        'fa': 'سرویس فایل',
+        'en': 'File service',
     },
     'robo': {
-        'fa': 'ادور تایزر توکن',
-        'en': 'Advertizer Token',
+        'fa': ادیتور پیشرفته',
+        'en': 'Advanced editor',
     },
     'blog': {
         'fa': 'وبلاگ',
@@ -228,7 +228,7 @@ var dictionary = {
         'en': 'Information',
     },
     'contact-des': {
-        'fa': 'اطلاعات تماس جهت مشاوره، همکاری، و سفارش پروژه',
+        'fa': 'اطلاعات تماس جهت مشاوره، همکاری',
         'en': 'Contact Information For Consulting, Collaboration, And Project Ordering',
     },
     'send-message': {
