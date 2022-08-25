@@ -7,5 +7,21 @@
 </div>
 
 <div align="right">
-   <H3 style="font-size:10px" >right</H3>
+   <H3 >right</H3>
 </div>
+
+```html
+<div align="left">
+   left
+</div>
+
+<div align="center">
+   center
+</div>
+
+<div align="right">
+   right
+</div>
+
+
+```
