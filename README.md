@@ -12,8 +12,14 @@
 |:--:|:--:|:--:|
 
  <a href="https://raminxz.github.io/">
-    <img src="https://raw.githubusercontent.com/iranset/iranset.github.io/a506c379f67c5b5bcab79eac57be2a6ee949461f/svgs/solid/globe.svg" width="16" height="16" alt="site" titl="site"/>
+<img src="https://raw.githubusercontent.com/iranset/iranset.github.io/a506c379f67c5b5bcab79eac57be2a6ee949461f/svgs/solid/globe.svg" width="16" height="16" alt="site" title="site"/> نمایش وبسایت
 </a>
+|
+<a class="" href="#">
+  <img src="https://raw.githubusercontent.com/iranset/iranset.github.io/main/svgs/solid/download.svg" width="16" height="16" title="download" alt="download" /> دانلود مخزن 
+</a>
+|
+
 
 |    |    |    |    |    |    |    |    |    |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
