@@ -3,6 +3,14 @@ var dictionary = {
         'fa': 'وبسایت شخصی رامین رودباری',
         'en': 'Ramin Rodbari &#8217;s Personal Website',
     },
+    'armin': {
+        'fa': 'آرمین مقبلی'
+        'en': 'Armin Maqbli &#8217;s'
+    },
+    'a-rec': {
+        'fa': 'صدا ضبط شده'
+        'en': 'Audio recorded'
+    },
     'fullname': {
         'fa': 'رامین رودباری',
         'en': 'Ramin Rodbari &#8217;s',
