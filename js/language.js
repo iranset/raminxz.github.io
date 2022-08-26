@@ -5,11 +5,15 @@ var dictionary = {
     },
     'armin': {
         'fa': 'آرمین مقبلی'
-        'en': 'Armin Maqbli &#8217;s'
+        'en': 'Armin Maqbli'
     },
     'a-rec': {
         'fa': 'صدا ضبط شده'
         'en': 'Audio recorded'
+    },
+    'back' : {
+        'fa': 'بازگشت'
+        'en': 'Back'
     },
     'fullname': {
         'fa': 'رامین رودباری',
